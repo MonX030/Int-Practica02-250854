@@ -92,36 +92,39 @@ Cuando realizamos documentacion utilizando el estandar de MARKDOWN ,es comun que
 
 1. Listas Ordenadas Estas listas deberan estar numeradas con un numero seguido por un punto y un espacio en blanco para comenzar con el listado.
 
-1.PC
-2.WIFI
-3.MODEM
-4.SMARTPHONE
-6.SMART TV
-5.TABLET
+1. PC
+2. WIFI
+3. MODEM
+4. SMARTPHONE
+6. SMART TV
+5. TABLET
 
 2.Estas listas no llevan un numero ,sino una viñeta (simbolo),y suele lsitar elementos que no requieren un orden especifico.
 
--Pan
--Leche
--Huevo
--Azucar 
+- Pan
+- Leche
+- Huevo
+- Azucar 
 
 3. Listas Mixta
 
 Son Aquellos que mezcla ambos elementos
 
 - 3° A DSM 
- 1.Juan
- 2.Pedro
- 3.Alejandra
+ 1. Juan
+
+ 2. Pedro
+
+ 3. Alejandra
+
 - 3° B DSM
-1.Romina
-2.Daniel
+1. Romina
+2. Daniel
 -3° C DSM
-1.Yahir
-2.Liseth
-3.Jeovany
-4.Erick
+1. Yahir
+2. Liseth
+3. Jeovany
+4. Erick
 
 ### 6. Bloques de Codigo (CODE BLOCKS ) o Citas (BLOCK QUOTES) 
 
